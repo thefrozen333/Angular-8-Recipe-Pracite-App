@@ -4,7 +4,7 @@ This is an Angular 8 project for practising various functionalities and patterns
 
 ## Environment variables!!!
 The folder environments.example needs to be renamed to environments.
-In the folder there are 2 files: enviornment.example.ts and enviornment.example.ts
+In the folder there are 2 files: enviornment.example.ts and enviornment.prod.example.ts
 The fields "firebaseAPIKey" and "firebaseDBURL" should be filled with your credentials in order to make the app work. These credentials can be received after creating a Firebase account.
 
 ## Development server
