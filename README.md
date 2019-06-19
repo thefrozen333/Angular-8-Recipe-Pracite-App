@@ -2,10 +2,13 @@
 ## Description of the app
 This is an Angular 8 project for practising various functionalities and patterns implemented in the framework. The app is not visually pleasing but that is not the point of it. This is a recipe app where a user needs to authenticate via e-mail and password. He or she can create new recipes with ingredients, description and a photo. A list of the recipes is presented in the main view of the app. Any of the fields can be edited. 
 
+## Dependencies
+You need to have installed Node.js as its the package manager is used. When the project is cloned you must run "npm i" to install the dependencies. 
+
 ## Environment variables!!!
 The folder environments.example needs to be renamed to environments.
 In the folder there are 2 files: enviornment.example.ts and enviornment.prod.example.ts
-The fields "firebaseAPIKey" and "firebaseDBURL" should be filled with your credentials in order to make the app work. These credentials can be received after creating a Firebase account.
+The fields "firebaseAPIKey" and "firebaseDBURL" should be filled with your credentials in order to make the app work. These credentials can be obtained after creating a Firebase account.
 
 ## Development server
 
