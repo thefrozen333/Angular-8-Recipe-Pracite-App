@@ -1,5 +1,5 @@
 export const environment = {
-  production: true,
+  production: false,
   firebaseAPIKey: 'Your firebase API key should be placed here',
   firebaseDBURL: 'Your firebase DB URL should be placed here'
 };
